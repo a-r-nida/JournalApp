@@ -1,0 +1,13 @@
+com\example\demo\entity\User.class
+com\example\demo\service\JournalEntryService.class
+com\example\demo\service\UserService.class
+com\example\demo\controller\PublicController.class
+com\example\demo\service\UserDetailsServiceImpl.class
+com\example\demo\entity\JournalEntry.class
+com\example\demo\repository\JournalEntryRepository.class
+com\example\demo\repository\UserRepository.class
+com\example\demo\controller\UserEntryControllerV2.class
+com\example\demo\config\SpringSecurity.class
+com\example\demo\controller\JournalEntryControllerV2.class
+com\example\demo\controller\AdminController.class
+com\example\demo\JournalApp.class

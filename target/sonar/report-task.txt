@@ -1,0 +1,6 @@
+projectKey=com.example:JournalApp
+serverUrl=http://localhost:9000
+serverVersion=7.9.6.41879
+dashboardUrl=http://localhost:9000/dashboard?id=com.example%3AJournalApp
+ceTaskId=AZaMh_JNXvk8wz3NKNNB
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZaMh_JNXvk8wz3NKNNB

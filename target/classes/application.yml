@@ -1,0 +1,9 @@
+spring:
+  profile:
+    active: dev
+
+logging:
+  level:
+    com:
+      example:
+        demo: DEBUG
